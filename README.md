@@ -3,4 +3,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sollertia&layout=compact&exclude_repo=sollertia.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Blog](https://img.shields.io/badge/Blog-sollertia.github.io-green.svg)](https://sollertia.github.io/)
+<!-- [![Blog](https://img.shields.io/badge/Blog-sollertia.github.io-green.svg)](https://sollertia.github.io/) -->
